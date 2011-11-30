@@ -4,7 +4,6 @@
  client
  pas trop de bureaucratie
  
- gugus
 Priorite 1
 
 notion utilisateur
@@ -49,7 +48,11 @@ Role
  
  politique
 
-User stories
- Visiteur
- En tant que visiteur je souhaite m'inscrire afin de devenir membre et profiter des services de la banque
- En tant que membre je souhaite investir mon argent 
+User stories:
+
+ En tant que visiteur, je souhaite...
+ ...m'inscrire afin de devenir membre et profiter des services de la banque
+
+ En tant que membre, je souhaite ...
+ ...ouvrir un compte, pour profiter des fonctionnalités de la banque
+ ...
