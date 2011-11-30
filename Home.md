@@ -1,0 +1,1 @@
+Welcome to the Banque2.0 wiki!
