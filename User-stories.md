@@ -42,11 +42,11 @@
 
 ### En tant que consultant externe, je souhaite...
 
-| Left align | Right align | Center align |
+| Définition | Priorité | Point |
 |:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
+| En tant que visiteur, je souhaite...    |
+| ...m'inscrire afin de devenir membre et profiter des services de la banque    |      1|    3|
+| En tant que membre, je souhaite...    |
+| ouvrir un compte, pour profiter des fonctionnalités de la banque|    1|     3|
 | left       |       right |    center    |
 | aligned    |     aligned |   aligned    |
