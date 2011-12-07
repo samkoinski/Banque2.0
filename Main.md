@@ -1,5 +1,2 @@
 # Vision
- transparence
- banque 2.0 gérer par la communauté
- client
- pas trop de bureaucratie
+La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière transparent, tout en respectant la vie privée du client. Elle n'aura pas de but lucratif, et offrira des salaires justes a ses employés.
