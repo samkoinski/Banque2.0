@@ -42,10 +42,11 @@
 
 ### En tant que consultant externe, je souhaite...
 
-   {| border=1
-    | Cell 1, row 1
-    | Cell 2, row 1
-    |-
-    | Cell 1, row 2
-    | Cell 2, row 2
-    |}
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
