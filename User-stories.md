@@ -2,44 +2,44 @@
 
  
 ***
-En tant que visiteur, je souhaite...
- ...m'inscrire afin de devenir membre et profiter des services de la banque
+1. En tant que visiteur, je souhaite...
+* ...m'inscrire afin de devenir membre et profiter des services de la banque
 
- En tant que membre, je souhaite...
- ...ouvrir un compte, pour profiter des fonctionnalités de la banque
- ...faire une transaction, pour payer une facture
- ...retirer de l'argent au bancomat
- ...payer dans un commerce avec ma carte
- ...consulter l'historique des opérations
- ...élire les membres des différents pouvoirs
- ...supprimer un compte
- ...supprimer mon profil
- ...exprimer mes besoins, pour permettre aux managers de prendre en compte l'avis des membres
+2.  En tant que membre, je souhaite...
+*...ouvrir un compte, pour profiter des fonctionnalités de la banque
+*...faire une transaction, pour payer une facture
+*...retirer de l'argent au bancomat
+*...payer dans un commerce avec ma carte
+*...consulter l'historique des opérations
+*...élire les membres des différents pouvoirs
+*...supprimer un compte
+*...supprimer mon profil
+*...exprimer mes besoins, pour permettre aux managers de prendre en compte l'avis des membres
 
- En tant que membre élu législatif, je souhaite...
- ...voter sur une proposition de loi
- ...rédiger un texte de loi
- ...modifier un texte de loi
- ...fixer le taux d'intérêt en vigueur pour les différents types de comptes
- ...mettre en place un nouveau type de compte, pour satisfaire aux nouveaux besoins des membres
- ...donner mon avis sur la vision stratégique d'avenir de la banque
+3. En tant que membre élu législatif, je souhaite...
+*...voter sur une proposition de loi
+*...rédiger un texte de loi
+*...modifier un texte de loi
+*...fixer le taux d'intérêt en vigueur pour les différents types de comptes
+*...mettre en place un nouveau type de compte, pour satisfaire aux nouveaux besoins des membres
+*...donner mon avis sur la vision stratégique d'avenir de la banque
 
- En tant que membre élu exécutif, je souhaite...
- ...engager un consultant pour le clôturer le bilan
- ...accorder un emprunt à un membre
- ...déléguer des tâches à un employé administratif
+4. En tant que membre élu exécutif, je souhaite...
+*...engager un consultant pour le clôturer le bilan
+*...accorder un emprunt à un membre
+*...déléguer des tâches à un employé administratif
 
- En tant qu'employé administratif, je souhaite...
- ...
+5.En tant qu'employé administratif, je souhaite...
+* ...
 
- En tant que webmaster, je souhaite...
- ...modérer les inscriptions des nouveaux membres, pour éviter les membres fantômes
- ...supprimer un compte
+6.En tant que webmaster, je souhaite...
+*...modérer les inscriptions des nouveaux membres, pour éviter les membres fantômes
+*...supprimer un compte
 
- En tant que secrétaire, je souhaite...
+7.En tant que secrétaire, je souhaite...
 
- En tant que hotline, je souhaite...
+8.En tant que hotline, je souhaite...
 
- En tant que analyste financier, je souhaite...
+9.En tant que analyste financier, je souhaite...
 
- En tant que consultant externe, je souhaite...
+10.En tant que consultant externe, je souhaite...
