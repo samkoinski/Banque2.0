@@ -42,7 +42,7 @@
 
 ### En tant que consultant externe, je souhaite...
 
-| Définition | Priorité | Point |
+| Définition | Priorité | Effort |
 |:-----------|------------:|:------------:|
 | En tant que visiteur, je souhaite...    |
 | ...m'inscrire afin de devenir membre et profiter des services de la banque    |      1|    3|
