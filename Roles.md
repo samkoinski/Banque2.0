@@ -1,18 +1,19 @@
 # Roles
- nom du role, description, classification du role, etc.
 
- non-membre (visiteur)
- membre, investir, emprunter de l'argent voter devoir, hebdomadaire, nul, inconnu
- 
- elu legislatif, elu faire des lois ou principe devoir, bi-hebdomadaire, nul, 20-50
- elu executif, faire appliquer le lois, quotidion, nul, 5-10
-  
+| Nom         | Description | Classification |   |   |
+|:------------|------------:|:--------------:|:-:|:-:|
+| non-membre (visiteur) |  |  |  |  |
+| membre | investir, emprunter de l'argent, voter | hebdomadaire | nul | inconnu |
+| élu législatif | faire des lois ou principes | bi-hebdomadaire | nul | 20-50 |
+| élu exécutif | faire appliquer les lois | quotidien | nul | 5-10 |
+
  administration technique,
- administration financiere,
- administration secretariat,
+ administration financière,
+ administration secrétariat,
  administration service client,
+ ...
  
- consultant securite,
- consultant,
+ consultant sécurite,
+ consultant...
  
  politique
