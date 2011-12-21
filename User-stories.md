@@ -1,6 +1,7 @@
 # User stories:
 
 En tant que visiteur, je souhaite...
+
     ...m'inscrire afin de devenir membre et profiter des services de la banque
 
 En tant que membre, je souhaite...
