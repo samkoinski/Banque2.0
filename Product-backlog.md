@@ -20,4 +20,4 @@ La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière tran
 | 15 | fixer le taux d'intérêt pour untype de compte | 3 | X | | |
 | 16 | mettre en place un nouveau type de compte | 3 | X | | |
 | 17 | retirer de l'argent au bancomat | 3 | X | | |
-| 28 | payer dans un commerce avec ma carte | 3 | X | | |
+| 18 | payer dans un commerce avec ma carte | 3 | X | | |
