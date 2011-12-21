@@ -1,6 +1,6 @@
 # User stories:
 
-| Définition | Priorité | Effort | ToDo | InProcess | Done |
+| Définition | Priorité | Effort | To Do | In Process | Done |
 |:-----------|------------:|:------------:|:------------:|:------------:|:------------:|
 | En tant que visiteur, je souhaite...    |
 | ...m'inscrire afin de devenir membre et profiter des services de la banque | 1 | 3 | X | | |
