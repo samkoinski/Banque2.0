@@ -25,14 +25,3 @@ La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière tran
 | En tant que webmaster, je souhaite... | 1 | 3 | X | | |
 | ...modérer les inscriptions des nouveaux membres, pour éviter les membres fantômes | 1 | 3 | X | | |
 | ...supprimer un compte | 1 | 3 | X | | |
-
-## To do :
-1. gestion du projet 
-1. modéliser architecture et technologie de l'application
-2. modéliser classe user UML; méthodes d'inscription désinscription, tester
-3. modéliser classe compte avec des méthode de création; fermeture et modification 
-4. modéliser classe transaction; avec des méthodes de création,
-5. modéliser classe vote; méthode fixer taux d’intérêt, autoriser demande d'emprunt 
-6. modéliser classe élection; méthode voter pour un élu
-7. template interface graphique, charte graphique
-8. 
