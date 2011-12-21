@@ -1,7 +1,7 @@
 # User stories:
 
 En tant que visiteur, je souhaite...
-* m'inscrire afin de devenir membre et profiter des services de la banque
+1. m'inscrire afin de devenir membre et profiter des services de la banque
 
 En tant que membre, je souhaite...
 * ouvrir un compte, pour profiter des fonctionnalités de la banque
