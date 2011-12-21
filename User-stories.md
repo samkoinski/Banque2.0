@@ -1,7 +1,7 @@
 # User stories:
 
 | Définition | Priorité | Effort | ToDo | InProcess | Done |
-|:-----------|------------:|:------------:|
+|:-----------|------------:|:------------:|:------------:|:------------:|:------------:|
 | En tant que visiteur, je souhaite...    |
 | ...m'inscrire afin de devenir membre et profiter des services de la banque | 1 | 3 | X | | |
 | En tant que membre, je souhaite...    |
