@@ -1,6 +1,7 @@
 # Roles
- nom du role, descritpion, classification du role, etc.
- non-membre
+ nom du role, description, classification du role, etc.
+
+ non-membre (visiteur)
  membre, investir, emprunter de l'argent voter devoir, hebdomadaire, nul, inconnu
  
  elu legislatif, elu faire des lois ou principe devoir, bi-hebdomadaire, nul, 20-50
