@@ -3,23 +3,23 @@ La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière tran
 
 | Tache | Priorité | Effort | To Do | In Process | Done |
 |:-----------|------------:|:------------:|:------------:|:------------:|:------------:|
-| gestion du projet | 1 | 3 | X | | |
-| modéliser architecture et technologie de l'application | 2 | 3 | X | | |
-| inscription d'un membre | 3 | 3 | X | | |
-| modérer les inscriptions | 4 | 3 | X | | |
-| supprimer un compte | 5 | 3 | X | | |
-| ouverture d'un compte | 6 | 3 | X | | |
-| effectuer une transaction | 7 | 3 | X | | |
-| consulter l'historique des opérations | 8 | 3 | X | | |
-| élire les membres des différents pouvoirs | 1 | 3 | X | | |
-| supprimer un compte | 1 | 3 | X | | |
-| supprimer mon profil | 1 | 3 | X | | |
-| exprimer un besoins| 1 | 3 | X | | |
-| voter sur une proposition de loi | 1 | 3 | X | | |
-| rédiger un texte de loi | 1 | 3 | X | | |
-| modifier un texte de loi | 1 | 3 | X | | |
-| fixer le taux d'intérêt en vigueur pour les différents types de comptes | 1 | 3 | X | | |
-| mettre en place un nouveau type de compte, pour satisfaire aux nouveaux besoins des membres | 1 | 3 | X | | |
-| donner mon avis sur la vision stratégique d'avenir de la banque| 1 | 3 | X | | |
-| retirer de l'argent au bancomat | 8 | 3 | X | | |
-| payer dans un commerce avec ma carte | 9 | 3 | X | | |
+| 1 | gestion du projet | 3 | X | | |
+| 2 | modéliser architecture et technologie de l'application | 3 | X | | |
+| 3 | inscription d'un membre | 3 | X | | |
+| 4 | modérer les inscriptions | 3 | X | | |
+| 5 | supprimer un compte | 3 | X | | |
+| 6 | ouverture d'un compte | 3 | X | | |
+| 7 | effectuer une transaction | 3 | X | | |
+| 8 | consulter l'historique des opérations | 3 | X | | |
+| 9 | élire les membres des différents pouvoirs | 3 | X | | |
+| 10 | supprimer un compte | 3 | X | | |
+| 11 | supprimer mon profil | 3 | X | | |
+| 12 | exprimer un besoins | 3 | X | | |
+| 13 | voter sur une proposition de loi | 3 | X | | |
+| 14 | rédiger un texte de loi | 3 | X | | |
+| 15 | modifier un texte de loi | 1 | 3 | X | | |
+| 16 | fixer le taux d'intérêt en vigueur pour les différents types de comptes | 3 | X | | |
+| 17 | mettre en place un nouveau type de compte, pour satisfaire aux nouveaux besoins des membres | 3 | X | | |
+| 18 | donner mon avis sur la vision stratégique d'avenir de la banque | 3 | X | | |
+| 19 | retirer de l'argent au bancomat | 3 | X | | |
+| 20 | payer dans un commerce avec ma carte | 3 | X | | |
