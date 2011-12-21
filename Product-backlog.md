@@ -11,10 +11,10 @@ La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière tran
 | 6 | ouverture d'un compte | 3 | X | | |
 | 7 | effectuer une transaction | 3 | X | | |
 | 8 | consulter l'historique des opérations | 3 | X | | |
-| 9 | élire les membres des différents pouvoirs | 3 | X | | |
-| 10 | supprimer un compte | 3 | X | | |
-| 11 | supprimer mon profil | 3 | X | | |
-| 12 | exprimer un besoins | 3 | X | | |
+| 9 | supprimer un compte | 3 | X | | |
+| 10 | supprimer mon profil | 3 | X | | |
+| 11 | exprimer un besoins | 3 | X | | |
+| 12 | élire les membres des différents pouvoirs | 3 | X | | |
 | 13 | voter sur une proposition de loi | 3 | X | | |
 | 14 | rédiger un texte de loi | 3 | X | | |
 | 15 | modifier un texte de loi | 3 | X | | |
