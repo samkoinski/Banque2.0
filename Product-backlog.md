@@ -17,7 +17,7 @@ La banque 2.0 sera gérée par la communauté.  Elle le sera d'une manière tran
 | 12 | exprimer un besoins | 3 | X | | |
 | 13 | voter sur une proposition de loi | 3 | X | | |
 | 14 | rédiger un texte de loi | 3 | X | | |
-| 15 | modifier un texte de loi | 1 | 3 | X | | |
+| 15 | modifier un texte de loi | 3 | X | | |
 | 16 | fixer le taux d'intérêt en vigueur pour les différents types de comptes | 3 | X | | |
 | 17 | mettre en place un nouveau type de compte, pour satisfaire aux nouveaux besoins des membres | 3 | X | | |
 | 18 | donner mon avis sur la vision stratégique d'avenir de la banque | 3 | X | | |
