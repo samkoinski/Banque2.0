@@ -17,7 +17,7 @@
 | supprimer mon profil 3|  | X | | |
 | ouverture d'un compte |  | X | | |
 |   | modeliser et coder classe Account 2h| | | | x |
-|   | cree entree DB class DAOAccount 2h| | rsa | |  |
+|   | cree entree DB class DAOAccount 2h| X | | |  |
 |   | CRUD Account 2h| X |  | |  |
 | supprimer un compte 8 |  | X | | |
 | effectuer une transaction |  | X | | |
