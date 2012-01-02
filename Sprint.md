@@ -5,8 +5,8 @@
 ## Sprint Backlog:
 | Story | Task | To Do | In Process | To Verify | Done |
 |:-----------|------------:|:------------:|:------------:|:------------:|:------------:|
-
-| modéliser architecture et technologie de l'application 3|  | X | | |
+|  | créer le projet sur github 2h |  | | X |
+| |  modéliser architecture et technologie de l'application 2h | X | | |
 | inscription d'un membre 7|  | X | | | |
 |   | modeliser et coder classe Person 2h| | | | x |
 |   | modeliser et coder classe Account 2h| | | | x |
