@@ -11,3 +11,5 @@
 | administration secrétariat | création de rapports périodiques, etc. | bi-hebdomadaire | quasi-nul | 1-5 |
 | administration service-client | réponse aux questions des clients | quotidien | nul | 5-10 |
 | consultant sécurité | test du niveau de sécurité du système | mensuel | champion | 1 |
+
+Un produit est destiné a des utilisateurs. La découverte des users stories se fait en réfléchissant.
