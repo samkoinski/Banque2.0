@@ -3,14 +3,13 @@
  * and open the template in the editor.
  */
 
+import ch.masrad.mre.banque2dot0.buisness.*;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
-import ch.masrad.mre.banque2dot0.buisness.Person;
 
 /**
  *
@@ -25,7 +24,7 @@ public class personTest {
 
     @BeforeClass
     public static void setUpClass() throws Exception {
-        paul = new Person("Paul");
+   //     paul = new Person("Paul");
     }
 
     @AfterClass
@@ -45,5 +44,9 @@ public class personTest {
     public void testName() {
             paul.setName("paul");
             assertEquals("paul", paul.getName());
+    }
+    
+    public void createPerson() {
+        DAO<Person> paulDAO = new PersonDAO();
     }
 }
