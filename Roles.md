@@ -1,6 +1,6 @@
 # Roles
 
-| Nom         | Description | Fréquence util. | Niveau | Nbre pers. |
+| **Nom         **| **Description ** | **Fréquence util.** | **Niveau ** | **Nbre pers.** |
 |:------------|------------:|:--------------:|:-:|:-:|
 | non-membre (visiteur) | créer un compte | une seule fois | nul | inconnu |
 | membre | investir, emprunter de l'argent, voter | hebdomadaire | nul | inconnu |
