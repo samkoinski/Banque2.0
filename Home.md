@@ -9,6 +9,8 @@ Les compétences visées dans sont cours :
 
 Dans le cadre de ce cours et pour mettre en pratique la théorie du cours il nous a été demandé de créer une banque en ligne. Voici les différents pages de notre wiki avec quelques explications sur leur but:
 
+## Somaire
+
 ###  [Vision](https://github.com/samkoinski/Banque2.0/wiki/Main)
 ### [Roles](https://github.com/samkoinski/Banque2.0/wiki/Roles)
 Un produit est destiné a des utilisateurs. La découverte des users stories se fait en réfléchissant 
