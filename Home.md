@@ -1,4 +1,3 @@
-
 Bienvenue sur le wiki de Banque2point0 !
 
 Nous travaillons sur ce projet dans le cadre du cours MRE pendant notre formation MAS-RAD. 
@@ -14,7 +13,6 @@ Dans le cadre de ce cours et pour mettre en pratique la théorie du cours il nou
 
 ###  [Vision](https://github.com/samkoinski/Banque2.0/wiki/Main)
 ### [Roles](https://github.com/samkoinski/Banque2.0/wiki/Roles)
-Un produit est destiné a des utilisateurs. La découverte des users stories se fait en réfléchissant 
 
 ### [User Stories](https://github.com/samkoinski/Banque2.0/wiki/User-Stories)
 ### [Product Backlog](https://github.com/samkoinski/Banque2.0/wiki/Product-backlog)
