@@ -12,5 +12,5 @@
 | administration service-client | réponse aux questions des clients | quotidien | nul | 5-10 |
 | consultant sécurité | test du niveau de sécurité du système | mensuel | champion | 1 |
 
-## Commentaires
+## Commentaire
 Afin de mieux connaître les usages qui pourront être faits du produit, il est important de définir les rôles des différentes catégories d'utilisateurs. Cela donne une meilleure vue d'ensemble pour l'étape suivante qui est la définition des user stories.
