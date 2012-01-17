@@ -18,8 +18,8 @@ Lorsque le travail du sprint est defini, le team de developement va traduire les
 
 A la fin du meeting le team de developpement doit etre en mesure d'expliquer comment il va atteindre les buts fixé pour le sprint a venir.
 
-### But du sprint: Creer la structure de base de l'application avec quelques classes de bases, des tests unitaires, 
-un mapping vers une base de donnees pour la persitence, utilisation d'un outil de versioning.
+### But du sprint: 
+Creer la structure de base de l'application avec quelques classes de bases, des tests unitaires, un mapping vers une base de donnees pour la persitence, utilisation d'un outil de versioning.
 
 ## Sprint Backlog:
 | Story | Task | To Do | In Process | To Verify | Done |
