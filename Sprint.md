@@ -31,7 +31,7 @@ Creer la structure de base de l'application avec quelques classes de bases, des 
 |   | cree entree DB class DAO Person 2h| |  | | X 2h |
 |   | CRUD Person 2h|  |  | | X 2h |
 | modérer les inscriptions 3|  | X | | |
-|   | ajouterer attribut pour gestion login(password, userlevel,etc) à Person 4h| X | | |  |
+|   | ajouterer attribut pour gestion login(password, userlevel,etc) à Person 4h|  | X | |  |
 |   | ajouterer methodes admininistration users 2h| X | | |  |
 | supprimer mon profil 3|  | X | | |
 | ouverture d'un compte |  | X | | |
