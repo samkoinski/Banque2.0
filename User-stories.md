@@ -40,4 +40,4 @@ En tant qu'employé administratif, je souhaite...
 
 ## Commentaire
 
-Les user stories décomposent les différentes fonctionnalités du logiciel en petites entités réduites à un usage précis de ce dernier par un des rôles précédemment définis. ("As a <role>, I want to ... so that ...")
+Les user stories décomposent les différentes fonctionnalités du logiciel en petites entités réduites à un usage précis de ce dernier par un des rôles précédemment définis. ("As a ..., I want to ... so that ...")
