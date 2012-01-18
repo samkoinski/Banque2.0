@@ -1,7 +1,7 @@
 ## Rappel de la vision : 
 La banque 2.0 sera gérée par la communauté, pour la communauté. Elle le sera d'une manière transparente, tout en respectant la vie privée du client. Elle n'aura pas de but lucratif et offrira des salaires justes à ses employés.
 
-| **Tache** | **Priorité** | **Effort** |
+| **Tâche** | **Priorité** | **Effort** |
 |:-----------|------------:|:------------:|
 | 1 | gestion du projet | 3 | 
 | 2 | modéliser architecture et technologie de l'application | 3 |
@@ -20,3 +20,7 @@ La banque 2.0 sera gérée par la communauté, pour la communauté. Elle le sera
 | 16 | rédiger un texte de loi | 13 |
 | 17 | modifier un texte de loi | 5 |
 | 18 | mettre en place un nouveau type de compte | 15 |
+
+## Commentaire
+
+Le product backlog est l'élément central de la gestion du projet. La communication et la planification s'articulent autour de cet outil.
