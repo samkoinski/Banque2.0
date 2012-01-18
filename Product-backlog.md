@@ -23,4 +23,4 @@ La banque 2.0 sera gérée par la communauté, pour la communauté. Elle le sera
 
 ## Commentaire
 
-Le product backlog est l'élément central de la gestion du projet. La communication et la planification s'articulent autour de cet outil.
+Le product backlog est l'élément central de la gestion du projet. La communication et la planification s'articulent autour de cet outil. Toutes les user stories y sont affichées et une valeur d'effort est attribuée à chacune d'entre-elles, par la méthode du planning poker.
