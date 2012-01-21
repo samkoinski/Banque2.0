@@ -22,10 +22,9 @@ public class Client {
               
     DAO<Person> personDAO = new PersonDAO();
     Person paul = new Person();
-    paul.setName("Jacques");
+    paul.setName("Pierre Yves August");
     paul = personDAO.create(paul);
     
     System.out.println(paul.getId());
-    
     }
  }

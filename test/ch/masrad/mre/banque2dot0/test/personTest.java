@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 import ch.masrad.mre.banque2dot0.buisness.*;
 import org.junit.After;
 import org.junit.AfterClass;
@@ -17,14 +12,17 @@ import static org.junit.Assert.*;
  */
 public class personTest {
     
-    public static Person paul;
+    DAO<Person> personDAO = new PersonDAO();
+    Person customer = new Person();
+        
     
     public personTest() {
     }
 
     @BeforeClass
     public static void setUpClass() throws Exception {
-   //     paul = new Person("Paul");
+
+
     }
 
     @AfterClass
@@ -33,6 +31,7 @@ public class personTest {
     
     @Before
     public void setUp() {
+        customer.setName("paul");
     }
     
     @After
@@ -42,11 +41,28 @@ public class personTest {
     
     @Test
     public void testName() {
-            paul.setName("paul");
-            assertEquals("paul", paul.getName());
+            assertEquals("paul", customer.getName());
     }
     
+    @Test
     public void createPerson() {
-        DAO<Person> paulDAO = new PersonDAO();
+
+        customer = personDAO.create(customer);
+        assertEquals("paul", customer.getName());
+    }
+    
+    @Test
+    public void findPerson() {
+        
+        customer = personDAO.find(customer.getId());
+        assertEquals("paul", customer.getName());
+    }
+    
+    @Test
+    public void updatePerson() {
+        
+        customer.setName("Yves");
+        customer = personDAO.update(customer);
+        assertEquals("Yves", customer.getName());
     }
 }
